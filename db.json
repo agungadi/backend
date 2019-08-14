@@ -1,0 +1,97 @@
+{
+    "Movies":[
+
+    {
+        "id" : 1,
+        "image" : "http://agungadi.spesial.web.id/img/movies/marvek.jpg",
+        "is_new" : 0,
+        "rating" : "UA",
+        "like_percent" : 75,
+        "vote_count" : 2344,
+        "title" : "Captain Marvel",
+        "language" : "English",
+        "type" : "3D"
+
+    },
+
+    {
+        "id" : 2,
+        "image" : "http://agungadi.spesial.web.id/img/movies/america.jpg",
+        "is_new" : 0,
+        "rating" : "A",
+        "like_percent" : 80,
+        "vote_count" : 4344,
+        "title" : "Captain America",
+        "language" : "English",
+        "type" : "2D"
+
+    },
+
+    {
+        "id" : 3,
+        "image" : "http://agungadi.spesial.web.id/img/movies/avengers.jpg",
+        "is_new" : 0,
+        "rating" : "S",
+        "like_percent" : 85,
+        "vote_count" : 7344,
+        "title" : "Avengers End Game",
+        "language" : "English",
+        "type" : "4D"
+
+    },
+
+    {
+        "id" : 4,
+        "image" : "http://agungadi.spesial.web.id/img/movies/hobshaw.jpg",
+        "is_new" : 0,
+        "rating" : "B",
+        "like_percent" : 70,
+        "vote_count" : 3344,
+        "title" : "Hobs & Shaw",
+        "language" : "English",
+        "type" : "2D"
+
+    },
+
+    {
+        "id" : 5,
+        "image" : "http://agungadi.spesial.web.id/img/movies/johnwick3.jpg",
+        "is_new" : 0,
+        "rating" : "A",
+        "like_percent" : 80,
+        "vote_count" : 5544,
+        "title" : "John Wick 3",
+        "language" : "English",
+        "type" : "2D"
+
+    },
+
+    {
+        "id" : 6,
+        "image" : "http://agungadi.spesial.web.id/img/movies/spiderman.jpg",
+        "is_new" : 0,
+        "rating" : "A",
+        "like_percent" : 82,
+        "vote_count" : 5614,
+        "title" : "Spiderman Far From Home",
+        "language" : "English",
+        "type" : "3D"
+
+    },
+
+    
+    {
+        "id" : 7,
+        "image" : "http://agungadi.spesial.web.id/img/movies/weathering.jpg",
+        "is_new" : 0,
+        "rating" : "S",
+        "like_percent" : 90,
+        "vote_count" : 3344,
+        "title" : "Weathering With You",
+        "language" : "English",
+        "type" : "2D"
+
+    }
+
+]
+}
